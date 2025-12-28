@@ -137,4 +137,8 @@ Conclusion
 This project demonstrates how rough set theory can be effectively used to construct a compact, interpretable expert system for financial risk analysis.
 The resulting system is logically sound, explainable, and aligned with classical expert system design principles.
 
+Author
+
+Student Project – Expert Systems / Artificial Intelligence
+
 
